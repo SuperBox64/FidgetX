@@ -9,7 +9,7 @@ SpriteKit
 
 Physics
 
-Programming, Designs, UI and UX by AgentiLoop Agent
+Programming, Designs, UI and UX by AgentiLoop
 
 Mesmerizing Spinners
 
